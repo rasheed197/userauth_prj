@@ -1,0 +1,17 @@
+# Django web framework
+Django>=3.2,<4.0
+
+# Django REST framework for building APIs
+djangorestframework>=3.12,<4.0
+
+# Simple JWT package for handling JWT authentication
+djangorestframework-simplejwt>=4.6,<5.0
+
+# PostgreSQL database adapter for Python
+psycopg2>=2.9,<3.0
+
+# Bcrypt for password hashing
+bcrypt>=3.2,<4.0
+
+# Python-dotenv for managing environment variables
+python-dotenv>=0.20,<1.0
